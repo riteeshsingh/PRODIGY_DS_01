@@ -1,0 +1,21 @@
+ID,Gender,Age,Income,City,State,Country,Health Status
+1,Female,45,23456,Hyderabad,TS,IND,Good
+2,Female,69,34567,Chennai,TN,IND,Good
+3,Female,32,45678,Hyderabad,TS,IND,Good
+4,Male,77,56789,Banglore,KN,IND,Good
+5,Female,28,67890,Banglore,KN,IND,Fair
+6,Male,20,24567,Chennai,TN,IND,Poor
+7,Female,39,36789,Coimbatore,TN,IND,Good
+8,Male,41,51678,Hyderabad,TS,IND,Poor
+9,Female,19,20912,Chennai,TN,IND,Good
+10,Female,36,90245,Banglore,KN,IND,Fair
+11,Male,32,56102,Vizag,AP,IND,Good
+12,Male,24,56456,Vizag,AP,IND,Excellent
+13,Female,60,45672,Vizag,AP,IND,Good
+14,Female,57,98123,Vizag,AP,IND,Excellent
+15,Female,38,35000,Hyderabad,TS,IND,Poor
+16,Female,56,23000,Chennai,TN,IND,Fair
+17,Female,40,87000,Banglore,KN,IND,Fair
+18,Male,28,45600,Kurnool,AP,IND,Poor
+19,Female,20,67900,Kurnool,AP,IND,Poor
+20,Male,31,35600,Kurnool,AP,IND,Excellent
